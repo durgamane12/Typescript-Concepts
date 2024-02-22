@@ -4,7 +4,7 @@ class Employee{
     public designation:string;
 
     public print():void{
-        console.log("Employee Details");
+        console.log("Employee Details are: ");
     }
 }
 
