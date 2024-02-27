@@ -5,7 +5,7 @@ interface IFlight{
     display():void;
 }
 
-class Flight implements IFlight{
+class Flight implements IFlight {
     flightNo:number;
     from:string;
     to:string;
